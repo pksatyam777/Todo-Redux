@@ -1,0 +1,64 @@
+.login {
+  margin-left: 35%;
+  margin-top: 5%;
+  width: 400px;
+  height: 500px;
+  border: solid 1px;
+  text-align: center;
+  box-shadow: 1px 1px 15px 3px #ea2c62;
+  border-color: #ea2c62;
+}
+.headings {
+  font-family: "Staatliches", cursive;
+  background-color: #ea2c62;
+}
+.btn-primary {
+  background-color: #fd3a69;
+  border-color: #fd3a69;
+}
+.btn-primary:hover {
+  background-color: #ff4b5c;
+  border-color: #ff4b5c;
+}
+.foot {
+  font-family: "Staatliches", cursive;
+  position: absolute;
+  bottom: 24%;
+
+  font-size: 15px;
+  background-color: #ea2c62;
+  width: 400px;
+}
+h5 {
+  font-size: 15px;
+}
+.heading {
+  font-family: "Staatliches", cursive;
+}
+h4 {
+  margin-left: 35%;
+}
+.head {
+  margin-left: 36%;
+}
+.dat {
+  margin-left: 35%;
+}
+.footer {
+  margin-left: 35%;
+  bottom: 5%;
+}
+.list-items {
+  margin-top: 2%;
+  font-family: "Staatliches", cursive;
+  margin-left: 33%;
+  background-color: #fd3a69;
+  width: 15%;
+  padding: 15px;
+  box-shadow: 3px 3px 5px 6px #ccc;
+
+  border-radius: 5px;
+}
+.todolist {
+  list-style-type: none;
+}
