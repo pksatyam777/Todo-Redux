@@ -47,7 +47,7 @@ Providing the Store
 create store in our app and wrap our app with the <Provider />. 
 
  
-
+  
 Connecting the Components 
 
 React Redux provides a connect function for you to read values from the Redux store.  use 
